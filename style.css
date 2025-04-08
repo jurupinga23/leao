@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(198, 157, 103);
+}
+.cabeça{
+    text-align: center;
+}
+.img {
+    text-align: center;
+    overflow:hidden;
+    background: transparent;
+}
+
+.img img {
+    border-radius: 40px;
+}
+.titulo2{
+    text-align: center;
+}
+.subtitulo{
+    text-align: center;
+}
+.Alimentação{
+    text-align: center;
+}
+.caça{
+    text-align: center;
+    overflow: hidden;
+    background: transparent;
+}
+.caça img {
+     border-radius: 40px;
+}
+
+.videocaça{
+    text-align: center;
+} 
+.Scarface{
+    text-align: center;
+}
+
+.Scarface2{
+    text-align: center;
+}
+.imgscarface{
+    text-align: center;
+    overflow: hidden;
+    background: transparent;
+}
+.imgscarface img{
+    border-radius: 40px;
+}
+.pg{
+    text-align: center;
+}
